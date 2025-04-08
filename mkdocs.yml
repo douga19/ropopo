@@ -1,5 +1,0 @@
-site_name: examen-xdev206
-nav:
-  - Readme: index.md
-  - Initiateur: initiateur.md
-theme: readthedocs
